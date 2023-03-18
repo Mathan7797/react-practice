@@ -1,4 +1,4 @@
-name: Workflow 1
+name: Project Deployment
 on: push
 jobs:
   lint:
